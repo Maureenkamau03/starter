@@ -1,3 +1,3 @@
 # starter
 
-This project contains html and css only.
+This is a simple homepage containing html and CSS only.
